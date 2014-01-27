@@ -15,9 +15,9 @@
 /log/*.log
 /tmp
 
-databse.yml
+database.yml
 doc/
-*.swap
+*.swp
 *~
 .project
 .DS_Store
